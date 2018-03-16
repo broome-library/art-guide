@@ -1,9 +1,4 @@
 # Summary
-
-* [Art Library Guide](intro.md)
-
-  * [Contact](intro.md#contact)
-
 * [Databases](databases.md)
 
   * [Art Databases and Encyclopedias](databases.md#art-databases-and-encyclopedias)
@@ -21,5 +16,8 @@
   * [Library Resources](images.md#library-resources)
   * [Websites](images.md#websites)
 
+* [Need Help?](contact.md)
 
+---
 
+* [Broome Library Research Guides](https://library.csuci.edu/research/dbases-subject)
