@@ -1,5 +1,8 @@
 # Summary
 
+* [Art Library Guide](intro.md)
+  * [Help/Contact](intro.md#contact)
+
 * [Databases](databases.md)
     * [Art Databases and Encyclopedias](databases.md#art-databases-and-encyclopedias)
     * [Interdisciplinary Databases](databases.md#interdisciplinary-databases)
@@ -9,7 +12,7 @@
     * [Tutorials](multimedia.md#tutorials)
     * [Computer and Video Games](multimedia.md#computer-and-video-games)
     * [Downloadable Content](multimedia.md#downloadable-content)
-    
+
 * [Images](images.md)
     * [Library Resources](images.md#library-resources)
     * [Websites](images.md#websites)
