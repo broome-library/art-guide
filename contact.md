@@ -1,6 +1,5 @@
-# Contact
-
 ## Robert Bobby
-robert.bobby@csuci.edu
+
+robert.bobby@csuci.edu  
 805.555-8500
 
