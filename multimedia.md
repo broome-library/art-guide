@@ -3,7 +3,7 @@
 ## Film Television, Videos, & Art
 
 ### [Archive of American Television](http://www.emmytvlegends.org/)
-An archive of video oral history interviews with important figures in television history.
+> An archive of video oral history interviews with important figures in television history.
 
 ### [Electronic Arts Intermix](http://www.eai.org/index.htm)
 Provides access to video and media art from the 1960’s to present.
@@ -11,7 +11,7 @@ Provides access to video and media art from the 1960’s to present.
 ### [Internet Archive: Movies Collection](http://archive.org/details/movies)
 Contains over 1 million digital movies including full-length films, news broadcasts, cartoons, and concerts.
 
-## [LUX](http://lux.org.uk/collection/introduction)
+### [LUX](http://lux.org.uk/collection/introduction)
 Contains over 4,000 films and videos by over 1,000 international artists from the 1920’s to present.
 
 ## Tutorials
@@ -19,7 +19,7 @@ Contains over 4,000 films and videos by over 1,000 international artists from th
 ### CI Resources
 
 #### [Lynda.com](https://shib.lynda.com/Shibboleth.sso/InCommon?providerId=https%3A%2F%2Fmckinley.csuci.edu%2Fidp%2Fshibboleth&target=https%3A%2F%2Fshib.lynda.com%2FInCommon)
-Available through CILearn, Lynda.com contains tutorials and workshops on a variety of topics including digital art software, photography, and web design.
+> Available through CILearn, Lynda.com contains tutorials and workshops on a variety of topics including digital art software, photography, and web design.
 
 ### Online Resources
 
