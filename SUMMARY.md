@@ -16,6 +16,14 @@
   * [Library Resources](images.md#library-resources)
   * [Websites](images.md#websites)
 
+* [Reviews & News](reviews-news.md)
+  
+  * [Los Angeles Times](reviews-news.md#los-angles-times)
+  * [New York Times](reviews-news.md#new-york-times)
+  * [Other Newspapers](reviews-news.md#other-newspapers)
+
+* [Websites](websites.md)
+
 * [Need Help?](contact.md)
 
 ---
