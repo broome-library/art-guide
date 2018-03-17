@@ -19,6 +19,7 @@
 
 ### [Academic Search Premier](http://summit.csuci.edu:2048/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=aph)
 > This interdisciplinary database contains indexing and abstracts for over 8,300 journals, with full text for more than 4,500 of those titles.
+
 ### [JSTOR](http://summit.csuci.edu:2048/login?url=http://www.jstor.org/search)
 > Contains content from journals and monographs from across the Humanities and Social Sciences.  JSTOR does not include items published within the last 3-5 years.
 
