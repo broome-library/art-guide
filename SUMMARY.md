@@ -24,6 +24,11 @@
 
 * [Websites](websites.md)
 
+* [Other Resources](other.md)
+  * [Local Museums](other.md#local-museums)
+  * [Directories & Associations](other.md#directories--associations)
+  * [Internship, Fellowship, and Grant Resources](other.md#internship-fellowship-and-grant-resources)
+
 * [Need Help?](contact.md)
 
 ---
