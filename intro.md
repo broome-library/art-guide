@@ -8,4 +8,6 @@ Welcome to the John Spoor Broome Library's Art Library Guide.
 
 ### Contact Your Librarian!
 
+---
+
 {% include "./contact.md" %}
