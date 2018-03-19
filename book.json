@@ -4,6 +4,6 @@
     },
     "title":"Art Library Guide",
     "variables": {
-        "librarian":"git+https://www.gitbook.com/book/broome-library/shared.git/contacts/lcarroll.md"        
+        "librarian":"git+https://git.gitbook.com/broome-library/shared.git/contacts/lcarroll.md"        
     }
 }
