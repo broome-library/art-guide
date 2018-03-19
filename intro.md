@@ -1,6 +1,6 @@
-# {{ title }}
+# {{ book.title }}
 
-Welcome to the John Spoor Broome Library's {{ title }} Guide.
+Welcome to the John Spoor Broome Library's {{ book.title }} Guide.
 
 [Return to Broome Library's Research Guide Homepage](https://library.csuci.edu/research/dbases-subject)
 
