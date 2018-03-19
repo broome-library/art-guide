@@ -2,5 +2,8 @@
     "structure":{
         "readme":"intro.md"
     },
-    "title":"Art Library Guide"
+    "title":"Art Library Guide",
+    "variables": {
+        "librarian":"git+https://www.gitbook.com/book/broome-library/shared.git/contacts/lcarroll.md"        
+    }
 }

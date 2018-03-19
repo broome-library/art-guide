@@ -1,1 +1,1 @@
-{% include "git+https://broome-library@github.com/broome-library/shared-guides.git/contacts/lcarroll.md" %}
+{% include book.librarian %}
