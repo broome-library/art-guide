@@ -10,4 +10,4 @@ Welcome to the John Spoor Broome Library's Art Library Guide.
 
 ---
 
-{% include "git+https://www.gitbook.com/book/broome-library/shared.git/contacts/lcarroll.md" %}
+{% include "./contact.md" %}
