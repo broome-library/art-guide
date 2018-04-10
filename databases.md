@@ -5,6 +5,9 @@
 ### [Bibliography of the History of Art](http://primo.getty.edu/primo_library/libweb/action/search.do?vid=BHA)
 > Database of art history publication citations covering material published from 1975-2007.
 
+### [Gale Virtual Reference Library](http://summit.csuci.edu:2048/login?url=http://infotrac.galegroup.com/itweb/csuci?db=GVRL)
+> Access to more than 8,000 Reference ebooks covering biographies and titles in the humanities and sciences.
+
 ### [Getty Research Portal](http://portal.getty.edu/portal/landing)
 > Provides open access to digitized and downloadable public domain art history texts, rare books, and auction sales catalogs made available by participating art institutions.
 
