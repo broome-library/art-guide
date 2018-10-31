@@ -6,10 +6,6 @@
 
 > Database of art history publication citations covering material published from 1975-2007.
 
-### [Biography in Context \(Gale\)](http://summit.csuci.edu/login?url=http://infotrac.galegroup.com/itweb/csuci?db=BIC1)
-
-> Over 650,000 biographical entries on historically significant figures, including thousands of performing and fine artists.
-
 ### [Gale Virtual Reference Library](http://summit.csuci.edu:2048/login?url=http://infotrac.galegroup.com/itweb/csuci?db=GVRL)
 
 > Access to more than 8,000 Reference ebooks covering biographies and titles in the humanities and sciences.
@@ -31,6 +27,10 @@
 ### [Academic Search Premier](http://summit.csuci.edu:2048/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=aph)
 
 > This interdisciplinary database contains indexing and abstracts for over 8,300 journals, with full text for more than 4,500 of those titles.
+
+### [Biography in Context \(Gale\)](http://summit.csuci.edu/login?url=http://infotrac.galegroup.com/itweb/csuci?db=BIC1)
+
+> Over 650,000 biographical entries on historically significant figures, including thousands of performing and fine artists.
 
 ### [JSTOR](http://summit.csuci.edu:2048/login?url=http://www.jstor.org/search)
 
