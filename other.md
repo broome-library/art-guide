@@ -21,7 +21,7 @@
 ### Santa Barbara County
 
 * [Museum of Contemporary Art Santa Barbara](http://www.mcasantabarbara.org/)
-* [Santa Barbara Museum of Art](http://www.sbmuseart.org/)
+* [Santa Barbara Museum of Art](https://www.sbma.net/)
 
 ## Directories & Associations
 
