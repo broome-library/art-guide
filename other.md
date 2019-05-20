@@ -26,7 +26,7 @@
 ## Directories & Associations
 
 * [American Alliance of Museums](http://www.aam-us.org/)
-* [California Association of Museums](http://www.calmuseums.org/index.cfm?pageId=486)
+* [California Association of Museums](https://www.calmuseums.org/)
 * [Design Museum Directory](http://www.dexigner.com/directory/cat/General-Design/Museums.html)
 * [MuseumsUSA Directory](http://www.museumsusa.org/museums/)
 * [Smithsonian Museums](http://www.si.edu/Museums)
