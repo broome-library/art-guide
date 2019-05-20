@@ -45,7 +45,7 @@
 * [Alliance for California Traditional Arts](http://www.actaonline.org/)
 * [Armory Center for the Arts](http://www.armoryarts.org/)
 * [California Arts Council](http://www.cac.ca.gov/index.php)
-* [Center for Advanced Study in the Visual Arts](http://www.nga.gov/casva/index.shtm)
+* [Center for Advanced Study in the Visual Arts](https://www.nga.gov/research/casva.html)
 * [Center for Craft, Creativity & Design](http://www.craftcreativitydesign.org/)
 * [Center for Cultural Innovation](http://www.cciarts.org/)
 * [Creative Capital/Warhol Foundation Arts Writers Grant Program](http://www.artswriters.org/)
