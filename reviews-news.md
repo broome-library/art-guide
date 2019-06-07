@@ -24,7 +24,7 @@
 
 ### Other Newspapers
 
-#### [ProQuest Newsstand](http://summit.csuci.edu:2048/login?url=http://search.proquest.com/newsstand?accountid=7284)
+#### [ProQuest US Newsstream](http://summit.csuci.edu:2048/login?url=http://search.proquest.com/newsstand?accountid=7284)
 
 > Provides access to U.S. and international news sources including current editions of New York Times.
 
