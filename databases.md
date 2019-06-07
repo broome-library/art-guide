@@ -4,7 +4,7 @@
 
 ### [Bibliography of the History of Art \(BHA\) & **Répertoire international de la littérature de l'art \(RILA\)**](https://primo.getty.edu/primo-explore/search?vid=BHA)
 
-> Getty Research Institute database of art history publication citations covering material published from 1975-2007.
+> Database of art history publication citations from the Getty Research Institute covering material published from 1975-2007.
 
 ### [Gale Virtual Reference Library](http://summit.csuci.edu:2048/login?url=http://infotrac.galegroup.com/itweb/csuci?db=GVRL)
 
