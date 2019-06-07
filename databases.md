@@ -2,9 +2,9 @@
 
 ## Art Databases and Encyclopedias
 
-### [Bibliography of the History of Art](http://primo.getty.edu/primo_library/libweb/action/search.do?vid=BHA)
+### [Bibliography of the History of Art \(BHA\) & **Répertoire international de la littérature de l'art \(RILA\)**](https://primo.getty.edu/primo-explore/search?vid=BHA)
 
-> Database of art history publication citations covering material published from 1975-2007.
+> Getty Research Institute database of art history publication citations covering material published from 1975-2007.
 
 ### [Gale Virtual Reference Library](http://summit.csuci.edu:2048/login?url=http://infotrac.galegroup.com/itweb/csuci?db=GVRL)
 
@@ -14,7 +14,7 @@
 
 > Provides open access to digitized and downloadable public domain art history texts, rare books, and auction sales catalogs made available by participating art institutions.
 
-### [Oxford Art Online](http://summit.csuci.edu:2048/login?url=http://www.oxfordartonline.com)
+[Oxford Art Online](http://summit.csuci.edu:2048/login?url=http://www.oxfordartonline.com)
 
 > Contains more than 23,000 subject entries, 21,000 biographies, 500,000 bibliographic citations, 40,000 image links and 6,000 art images. License restricts usage to 5 simultaneous users.
 
