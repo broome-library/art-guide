@@ -18,9 +18,9 @@
 
 ### New York Times
 
-#### [New York Times Historical \(1851-2009\)](http://summit.csuci.edu:2048/login?url=http://search.proquest.com/hnpnewyorktimeswindex?accountid=7284)
+#### [New York Times Historical \(1851-2015\)](http://summit.csuci.edu:2048/login?url=http://search.proquest.com/hnpnewyorktimeswindex?accountid=7284)
 
-> Database of New York Times issues from 1985 to present.
+> Database of New York Times issues from 1851 to 2015.
 
 ### Other Newspapers
 
